@@ -170,3 +170,4 @@ const showRecipe = async function () {
 showRecipe();
 
 ["haschange", "load"].forEach((ev) => addEventListener(ev, showRecipe));
+
